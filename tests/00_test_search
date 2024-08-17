@@ -1,0 +1,2 @@
+def test_search_functionality(amazon_ui_app):
+    pass
