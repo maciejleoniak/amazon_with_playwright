@@ -1,2 +1,0 @@
-class BaseApp:
-    pass
