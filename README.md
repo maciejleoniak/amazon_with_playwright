@@ -5,3 +5,7 @@
 `source .venv/bin/activate`
 
 `pip install -r requirements.txt`
+
+before commit:
+
+`pre-commit run --all-files`
